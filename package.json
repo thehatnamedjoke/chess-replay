@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "apidoc": "^0.14.0",
+    "browser-sync": "^2.11.2",
     "del": "^2.2.0",
     "errorhandler": "^1.4.2",
     "gulp": "^3.9.0",
